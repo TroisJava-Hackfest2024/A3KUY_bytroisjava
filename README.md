@@ -1,7 +1,3 @@
-Hi, Welcome in Trois Java Application!!!
-
-Our Member
-
--Farah Alif Nabila as Hipster
--Dwi Danty Aisya as Hustler
--Nabila Aishi Octaviana as Hacker
+MAAF ADA KESALAHAN SISTEM DALAM SALIN LINK GITHUB
+KUNJUNGI LINK BERIKUT
+https://github.com/TroisJava-Hackfest2024/A3KUY_bytroisjava.git
